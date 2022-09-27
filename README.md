@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> i'm Kennedy Cordeiro</h1>
+<h1 align="center">Hi i'm Kennedy Cordeiro</h1>
 <h3 align="center">I'm dev focused on learning more and level up my experience 🚀</h3></br>
 
 
