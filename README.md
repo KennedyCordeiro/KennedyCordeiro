@@ -4,7 +4,7 @@
 
 + 🔭 Working as a Full stack Developer at <a href=https://fitbank.com.br/>Fitbank 450</a>.
 
-+ 📚 Graduating in Software Engineering at <a href="https://www.ufc.br/">Federal University of Ceará</a>.
++ 📚 Software Engineer at <a href="https://www.ufc.br/">Federal University of Ceará</a>.
 
 + 🔥 Currently studying, <b>Typescript</b>, <b>React.js</b>, <b>C#</b> and <b>.NET</b>
 
