@@ -8,7 +8,7 @@
 
 + 🔥 Currently studying, <b>Typescript</b>, <b>React.js</b>, <b>C#</b> and <b>.NET</b>
 
-+ 💬 If you have any questions about <b>HTML</b>, <b>CSS</b> and <b>Javascript</b>, <b>TypeScript</b>, i can help you.
++ 💬 If you have any questions about <b>HTML</b>, <b>CSS</b>, <b>Javascript</b>  and <b>TypeScript</b>, i can help you.
 </p>
 
 + ✉️ Contact me: ⤵️
