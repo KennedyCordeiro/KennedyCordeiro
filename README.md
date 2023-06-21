@@ -6,7 +6,7 @@
 
 + 📚 Software Engineer for <a href="https://www.ufc.br/">Federal University of Ceará</a>.
 
-+ 🔥 Currently studying, <b>Typescript</b>, <b>React.js</b>, <b>Node.js</b>, <b>Vue</b>, <b>Next.js</b>  <b>C#</b> and <b>.NET</b>
++ 🔥 Currently studying, <b>Typescript</b>, <b>React.js</b>, <b>Node.js</b>, <b>Vue</b>, <b>Next.js</b>,  <b>C#</b> and <b>.NET</b>
 
 + 💬 If you have any questions about <b>HTML</b>, <b>CSS</b>, <b>Javascript</b> and <b>TypeScript</b>, i can help you.
 </p>
