@@ -2,13 +2,13 @@
 <h3 align="center">I'm dev focused on learning more and level up my experience 🚀</h3></br>
 
 
-+ 🔭 Working as a Full stack Developer at <a href=https://fitbank.com.br/>Fitbank 450</a>.
++ 🔭 Working as a Full stack Developer.
 
 + 📚 Software Engineer for <a href="https://www.ufc.br/">Federal University of Ceará</a>.
 
-+ 🔥 Currently studying, <b>Typescript</b>, <b>React.js</b>, <b>C#</b> and <b>.NET</b>
++ 🔥 Currently studying, <b>Typescript</b>, <b>React.js</b>, <b>Node.js</b>, <b>Vue</b>, <b>Next.js</b>  <b>C#</b> and <b>.NET</b>
 
-+ 💬 If you have any questions about <b>HTML</b>, <b>CSS</b>, <b>Javascript</b>  and <b>TypeScript</b>, i can help you.
++ 💬 If you have any questions about <b>HTML</b>, <b>CSS</b>, <b>Javascript</b> and <b>TypeScript</b>, i can help you.
 </p>
 
 + ✉️ Contact me: ⤵️
