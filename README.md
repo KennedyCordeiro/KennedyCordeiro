@@ -2,7 +2,7 @@
 <h3 align="center">I'm dev focused on learning more and level up my experience 🚀</h3></br>
 
 
-+ 🔭 Working as a Full stack Developer.
++ 🔭 Working as a Front End Developer.
 
 + 📚 Software Engineer for <a href="https://www.ufc.br/">Federal University of Ceará</a>.
 
