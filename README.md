@@ -38,7 +38,7 @@
 ## 📊 GitHub Analytics
 <div align="center">
   <a href="https://github.com/KennedyCordeiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KennedyCordeiro&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&hide=&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KennedyCordeiro&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&hide=&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennedyCordeiro&hide=dockerfile,shell,ejs&hide_border=true&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
