@@ -40,7 +40,7 @@
   <a href="https://github.com/KennedyCordeiro">
   <img src="https://streak-stats.demolab.com?user=KennedyCordeiro&theme=dracula&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&include_all_commits=true" alt="GitHub Streak" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KennedyCordeiro&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&hide=&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KennedyCordeiro&theme=dracula&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KennedyCordeiro&theme=dracula&border_radius=5"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KennedyCordeiro&theme=vue-dark&hide_border=true&hide_total_contributions=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennedyCordeiro&hide=dockerfile,shell,ejs&hide_border=true&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
