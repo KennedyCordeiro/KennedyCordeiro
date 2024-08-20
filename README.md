@@ -48,7 +48,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/KennedyCordeiro">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KennedyCordeiro&theme=dracula&border_radius=5"/>
+        <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=KennedyCordeiro&theme=dracula&border_radius=5&date_format=j%20M%5B%20Y%5D&include_all_commits=true"/>
       </a>
     </td>
   </tr>
