@@ -46,5 +46,5 @@
   <a href="https://github.com/KennedyCordeiro">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennedyCordeiro&hide=dockerfile,shell,ejs&hide_border=true&layout=compact&langs_count=7&theme=github_dark"/>
   </a>
-</div>
+</div>>
 
