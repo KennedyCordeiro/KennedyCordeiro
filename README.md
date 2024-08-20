@@ -36,14 +36,28 @@
 </p>
 
 ## 📊 GitHub Analytics
-<div align="center" style="display: flex; flex-direction: column; align-items: center;">
-  <a href="https://github.com/KennedyCordeiro">
-    <img src="https://streak-stats.demolab.com?user=KennedyCordeiro&theme=dracula&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&include_all_commits=true" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/KennedyCordeiro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KennedyCordeiro&theme=dracula&border_radius=5"/>
-  </a>
-  <a href="https://github.com/KennedyCordeiro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennedyCordeiro&hide=dockerfile,shell,ejs&hide_border=true&layout=compact&langs_count=7&theme=github_dark"/>
-  </a>
-</div>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/KennedyCordeiro">
+        <img src="https://streak-stats.demolab.com?user=KennedyCordeiro&theme=dracula&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&include_all_commits=true" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/KennedyCordeiro">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KennedyCordeiro&theme=dracula&border_radius=5"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/KennedyCordeiro">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennedyCordeiro&hide=dockerfile,shell,ejs&hide_border=true&layout=compact&langs_count=7&theme=github_dark"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
