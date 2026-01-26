@@ -105,9 +105,7 @@ Full Stack & Front-End Developer
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/KennedyCordeiro">
-        <img src="https://streak-stats.demolab.com?user=KennedyCordeiro&theme=tokyonight&hide_border=true&border_radius=6" alt="GitHub Streak" />
-      </a>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KennedyCordeiro&theme=tokyonight&hide_border=true&border_radius=5.5&locale=pt_BR&card_width=500&hide_total_contributions=true" alt="GitHub Streak" /></a>
     </td>
   </tr>
   <tr>
