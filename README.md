@@ -15,6 +15,10 @@ Full Stack & Front-End Developer
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KennedyCordeiro&style=for-the-badge&color=0e76a8" alt="Profile views" />
+</p>
+
+<p align="center">
   <a href="https://web.whatsapp.com/send?phone=558899418159" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
@@ -109,6 +113,13 @@ Full Stack & Front-End Developer
   <tr>
     <td align="center">
       <a href="https://github.com/KennedyCordeiro">
+        <img src="https://github-profile-trophy.vercel.app/?username=KennedyCordeiro&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/KennedyCordeiro">
         <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=KennedyCordeiro&theme=dracula&border_radius=6&include_all_commits=true&show_icons=true" />
       </a>
     </td>
@@ -124,6 +135,13 @@ Full Stack & Front-End Developer
     <td align="center">
       <a href="https://github.com/KennedyCordeiro">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=KennedyCordeiro&theme=react-dark&hide_border=true&radius=6" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/KennedyCordeiro">
+        <img src="https://metrics.lecoq.io/KennedyCordeiro?template=classic&isocalendar=1&languages=1&people=1&stars=1&followup=1&achievements=1&base.indepth=false&base.hireable=false&base=header%2Cactivity%2Crepositories&config.timezone=America%2FFortaleza" alt="GitHub Metrics" />
       </a>
     </td>
   </tr>
