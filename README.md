@@ -40,9 +40,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/KennedyCordeiro">
-        <img src="https://streak-stats.demolab.com?user=KennedyCordeiro&theme=dracula&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&include_all_commits=true" alt="GitHub Streak" />
-      </a>
+  <a href="https://github.com/KennedyCordeiro"><img src="https://streak-stats.demolab.com?user=KennedyCordeiro&theme=tokyonight&hide_border=true&border_radius=5.5&locale=pt_BR&card_width=500" alt="GitHub Streak" /></a>
     </td>
   </tr>
   <tr>
