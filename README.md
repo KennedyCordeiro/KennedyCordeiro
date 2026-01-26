@@ -1,7 +1,7 @@
 # Kennedy Cordeiro
 Full Stack & Front-End Developer
 
-<p align="center">
+<p align="start">
   <a href="https://github.com/KennedyCordeiro">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7A7A7A&center=true&vCenter=true&width=800&lines=Full+Stack+%7C+Front-End+Developer;JavaScript+%7C+TypeScript+%7C+React+%7C+Node;Microservices+%7C+Performance+%7C+Clean+Code" alt="Typing SVG" />
   </a>
