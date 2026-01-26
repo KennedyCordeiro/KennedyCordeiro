@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Kennedy Cordeiro</h1>
 <h3 align="center">I'm a dev focused on learning more and leveling up my experience 🚀</h3></br>
 
-+ 🔭 Working as a Front End Developer.
++ 🔭 Working as a Front End Engineer.
 
 + 📚 Software Engineer for <a href="https://www.ufc.br/">Federal University of Ceará</a>.
 
 + 🔥 Currently studying, <b>Typescript</b>, <b>React.js</b>, <b>Node.js</b>, <b>Vue</b>, <b>Next.js</b>,  <b>C#</b> and <b>.NET</b>
 
-+ 💬 If you have any questions about <b>HTML</b>, <b>CSS</b>, <b>Javascript</b> and <b>TypeScript</b>, I can help you.
++ 💬 If you have any questions about <b>HTML</b>, <b>CSS</b>, <b>Javascript</b> and <b>TypeScript</b> <b>Front-end</b>, I can help you.
 </p>
 
 + ✉️ Contact me: ⤵️
